@@ -1,0 +1,56 @@
+!DOCTYPE html
+html lang=zh-Hant
+head
+  meta charset=UTF-8
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  title豐芝淳七脈輪身心靈SPAtitle
+  style
+    body { font-family 'Noto Sans TC', Arial, sans-serif; margin0; background#f9f7f3; color#31403d; }
+    header { backgroundlinear-gradient(90deg,#9be7d6,#ffd6e0); color#31403d; padding2.5em 1em 1.2em 1em; text-aligncenter; }
+    h1 { margin0 0 0.3em 0; font-size2.5em; letter-spacing2px;}
+    .subtitle { font-size1.2em; margin-bottom10px; color#857a6f;}
+    section { max-width800px; margin2.5em auto; padding2.2em; background#fff; border-radius18px; box-shadow0 0 20px rgba(66,66,66,0.06);}
+    .chakra-list { displaygrid; grid-template-columns1fr 1fr; gap1.1em;}
+    .chakra-item { displayflex; align-itemsflex-start; padding1.1em; border-radius9px; background#f2faf7; }
+    .chakra-color { width32px; height32px; border-radius50%; margin-right1.1em; margin-top2px;}
+    .c1 { background#D72638;}
+    .c2 { background#F46036;}
+    .c3 { background#FFD23F;}
+    .c4 { background#1B998B;}
+    .c5 { background#247BA0;}
+    .c6 { background#7067CF;}
+    .c7 { background#F1C8DB;}
+    @media(max-width600px) { .chakra-list { grid-template-columns1fr; }}
+    footer { text-aligncenter; color#bbb; font-size0.95em; margin2.5em 0 1em 0;}
+  style
+head
+body
+  header
+    h1豐芝淳七脈輪身心靈SPAh1
+    div class=subtitle淨化能量 ‧ 釋放壓力 ‧ 啟動自我療癒div
+  header
+  section
+    h2認識七脈輪 × 平衡您的身心靈h2
+    div class=chakra-list
+      div class=chakra-itemdiv class=chakra-color c1divdivb海底輪b（尾椎）br連結大地能量，帶來穩定安全感divdiv
+      div class=chakra-itemdiv class=chakra-color c2divdivb腹輪b（下腹）br喚醒創造力，釋放情緒壓抑divdiv
+      div class=chakra-itemdiv class=chakra-color c3divdivb太陽神經叢b（胃部）br增強自信，紓解焦慮緊繃divdiv
+      div class=chakra-itemdiv class=chakra-color c4divdivb心輪b（胸腔）br調和情感，軟化內在傷痛divdiv
+      div class=chakra-itemdiv class=chakra-color c5divdivb喉輪b（咽喉）br促進溝通，釋放壓抑與壓力divdiv
+      div class=chakra-itemdiv class=chakra-color c6divdivb眉心輪b（額頭中央）br提升直覺與洞察力，靜化雜念divdiv
+      div class=chakra-itemdiv class=chakra-color c7divdivb頂輪b（頭頂）br連結宇宙能量，帶來全然寧靜divdiv
+    div
+  section
+  section
+    h2關於豐芝淳七脈輪SPAh2
+    p
+      我們融合東西方療癒智慧，運用七脈輪能量按摩，協助您釋放生活中累積的壓力與疲勞，開啟身心靈全面深層修復。  
+      每一次療程都專屬設計，溫柔而精準，讓每位來賓安心、感受當下放鬆與能量平衡。  
+      期待為您帶來舒適、療癒與真正的自癒力啟動。
+    p
+  section
+  footer
+    &copy; 2025 豐芝淳七脈輪身心靈SPA│由心出發．溫柔陪伴．淨化療癒
+  footer
+body
+html
